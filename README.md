@@ -1,4 +1,4 @@
-# AR_Dysarthric
+# Arabic Dysarthric Speech Recognition Using Adversarial and Signal-Based Augmentation
 
 - Our goal is to build an Arabic dysarthric automatic speech recognition through a multi-stage augmentation approach. We first propose a signal-based approach to generate dysarthric Arabic speech from healthy Arabic speech by modifying its speed and tempo. We also propose a second stage Parallel Wave Generative adversarial model that is trained on an English real dysarthric dataset. We propose a fine-tuning and text-correction strategiesfor Arabic Conformer at different dysarthric speech severity levels.
 
