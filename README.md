@@ -10,4 +10,4 @@
 - Step 6: Build text-correction module by employing a weighted Jaccard distance
 
 - Go to this link to read the paper: https://arxiv.org/pdf/2306.04368.pdf
-- Go to this link to download the dataset: https://mailaub-my.sharepoint.com/:u:/r/personal/mab87_mail_aub_edu/Documents/Arabic_Dysarthric_dataset.zip?csf=1&web=1&e=gPLGSQ
+- Go to this link to download the dataset: https://mailaub-my.sharepoint.com/:u:/g/personal/mab87_mail_aub_edu/EXgc2xw1schBqW4KS6f8w9MB322YhGTuJGdEd52s17AiGg?e=uDjcpE
